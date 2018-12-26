@@ -2,6 +2,8 @@
 
 ## Adaptive Ogmented Project
 
+This is a open source collaborative project for the course Adaptive Web. We used virtual reality (VuForia) and game engine (Unity) to build this project. In this project we hope to teach concepts of object oriented programming using virtual reality. 
+
 ### Team Members
 1. Aditya Chayapathy
 2. Avinash VijayaKumar
